@@ -1,5 +1,5 @@
 # Web API Standards
-api開發標準-(參考白宮api-standards)
+api開發標準-(參考[白宮api-standards](https://github.com/WhiteHouse/api-standards))
 
 * [Guidelines](#guidelines)
 * [Pragmatic REST](#pragmatic-rest)
